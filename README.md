@@ -15,6 +15,8 @@
 * 🔭 I’m currently working on GreenBnB, SCHUSA, and improving my understanding of DS&A.
 * 🌱 I’m currently learning how to implement AWS in my projects.
 * 👯 I’m looking to collaborate on a new project, so reach out!
+* 💬 Ask me about Messi's contract renewal or anything footy related...
+* 🌳 Send me cool pictures of nature
 * 📫 [Let's connect!](https://www.linkedin.com/in/schuler-small/)
 
 <!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ssmall1&layout=compact) -->
@@ -24,7 +26,6 @@
 
 Here are some ideas to get you started:
 
-- 💬 Ask me about ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 * 🤔 I’m looking for help with ...
