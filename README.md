@@ -1,7 +1,7 @@
 <!-- ![Schuler's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssmall1&show_icons=true&theme=vue-dark&count_private=true) -->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ssmall1&show_icons=true&theme=vue-dark&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ssmall1&show_icons=true&theme=vue-dark&count_private=true" target="_blank" rel="noopener noreferrer" />
 </a>
 
 ### [](https://github.com/robertvogue/robertvogue/#languagesandtechnologies)Languages and Technologies I Use:
