@@ -19,7 +19,7 @@
 <img height="60" src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png'> <addr>
 <img height="60" src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png'> <addr>
   
-* 🔭 I’m currently working on GreenBnB, SCHUSA, and improving my understanding of DS&A.
+* 🔭 I’m currently working on GreenBnB, and improving my understanding of DS&A.
 * 🌱 I’m learning how to implement AWS in my projects.
 <!-- * 👯 I’m looking to collaborate on a new project, so reach out! -->
 * 🌳 Send me cool pictures of nature or project ideas you have!
