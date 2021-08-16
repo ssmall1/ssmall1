@@ -20,11 +20,11 @@
 <img height="60" src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png'> <addr>
   
 * 💿 Check out my portfolio [here](https://ssmall1.github.io/).
-* 🔭 I’m currently working on GreenBnB, and improving my understanding of DS&A.
+* 🔭 I’m currently working on refactoring components of GreenBnB and improving my understanding of DS&A.
 * 🌱 I’m learning how to implement AWS in my projects.
 <!-- * 👯 I’m looking to collaborate on a new project, so reach out! -->
 * 🌳 Send me cool pictures of nature or project ideas you have!
-* 💬 Ask me about Messi's contract renewal or anything footy related...
+* 💬 Ask me about financial fair play in European football or anything related to how we can bring more good to the world :)
 * 📫 [Let's connect!](https://www.linkedin.com/in/schuler-small/)
 
 <!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ssmall1&layout=compact) -->
