@@ -24,7 +24,7 @@
 * 🌱 I’m learning how to implement AWS in my projects.
 <!-- * 👯 I’m looking to collaborate on a new project, so reach out! -->
 * 🌳 Send me cool pictures of nature or project ideas you have!
-* 💬 Ask me about financial fair play in European football or anything related to how we can bring more good to the world :)
+* 💬 Ask me about financial fair play in European football or anything related to how we can bring more good into the world :)
 * 📫 [Let's connect!](https://www.linkedin.com/in/schuler-small/)
 
 <!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ssmall1&layout=compact) -->
