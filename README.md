@@ -47,7 +47,6 @@
 * 💿 Check out my portfolio [here](https://www.schulersmall.dev).
 * 🔭 I’m currently adjusting responsive web design for all my projects, refactoring components of GreenBnB, and improving my understanding of DS&A.
 * 🌱 I’m learning how to implement AWS in my projects.
-<!-- * 👯 I’m looking to collaborate on a new project, so reach out! -->
 * 🌳 Send me cool pictures of nature or project ideas you have!
 * 💬 Ask me about financial fair play in European football or anything related to how we can bring more good into the world...
 * 📫 [Let's connect!](https://www.linkedin.com/in/schuler-small/)
@@ -62,5 +61,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 * 🤔 I’m looking for help with ...
+<!-- * 👯 I’m looking to collaborate on a new project, so reach out! -->
 
 -->
