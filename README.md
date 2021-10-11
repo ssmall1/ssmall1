@@ -47,8 +47,9 @@
 * 💿 Check out my portfolio [here](https://www.schulersmall.dev).
 * 🔭 I’m currently adjusting responsive web design for all my projects, refactoring components of GreenBnB, and improving my understanding of DS&A.
 * 🌱 I’m learning how to implement AWS in my projects.
-* 🌳 Send me cool pictures of nature or project ideas you have!
-* 💬 Ask me about financial fair play in European football or anything related to how we can bring more good into the world...
+* 🌳 Send me project ideas if you want to collaborate! 
+* ↗️ I'm also always looking for new coding challenges.
+* 💬 Ask me about financial fair play in European football ⚽, vertical farming 🥬, or anything related to how we can bring more good into the world...
 * 📫 [Let's connect!](https://www.linkedin.com/in/schuler-small/)
 
 <!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ssmall1&layout=compact) -->
