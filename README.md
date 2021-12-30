@@ -45,13 +45,13 @@
 <br />
 
 * 💿 Check out my portfolio [here](https://www.schulersmall.dev).
-* 🔭 I’m currently adjusting responsive web design for all my projects, refactoring components of GreenBnB, and improving my understanding of DS&A.
-* 🌱 I’m customizing AWS S3 buckets for my projects.
+* 🔭 I’m currently adjusting responsive web design for all my projects, refactoring components of GreenBnB, and grinding DS&A as always.
 * 🌳 Send me project ideas if you want to collaborate! 
-* ↗️ I'm also always looking for new coding challenges.
+* ↗️ I'm also always looking for new opportunities to learn.
 * 💬 If you want to make humans better for the planet or know what triang mukha ekapada paschimottonasana means let's talk.
 * 📫 [Let's connect!](https://www.linkedin.com/in/schuler-small/)
 
+<!-- * 🌱 I’m customizing AWS S3 buckets for my projects. -->
 <!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ssmall1&layout=compact) -->
 
 <!--
