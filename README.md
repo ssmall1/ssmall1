@@ -47,12 +47,12 @@
 
 * 💿 Check out my portfolio [here](https://www.schulersmall.dev).
 * 🔭 I’m currently working on building a renewables education platform at NextIQ + building a spotify based app in my spare time.
-<!-- * 🌳 Send me project ideas if you want to collaborate!  -->
 * ↗️ I'm looking to collaborate on open source and for any new opportunities to learn.
 * 💬 If you want to make humans better for the planet or know what triang mukha ekapada paschimottonasana means let's talk.
 * 📫 [Connect with me!](https://www.linkedin.com/in/schuler-small/)
 
 <!-- * 🌱 I’m customizing AWS S3 buckets for my projects. -->
+<!-- * 🌳 Send me project ideas if you want to collaborate!  -->
 <!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ssmall1&layout=compact) -->
 
 <!--
